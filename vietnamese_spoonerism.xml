@@ -1,0 +1,3337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data project="vietnamese spoonerism" version="1.0">
+  <!--Author: Thai-Hoang Pham, Xuan-Khoai Pham-->
+  <!--Contact:  phamthaihoang.hn@gmail.com, phamxuankhoai@gmail.com-->
+  <sentence id="1">
+    <text>Em nó đi chống lầy rồi .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(chống lầy, lấy chồng)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="2">
+    <text>Trên trời rớt xuống mà lại mau co .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(mau co, mo cau)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="3">
+    <text>Con cá đối bỏ trong cối đá .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cá đối, cối đá)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="4">
+    <text>Bình định khó mà đình bịnh .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bình định, đình bịnh)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="5">
+    <text>Leo thang tất phải theo lang .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(leo thang, theo lang)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="6">
+    <text>Tiền lính tính liền .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(tiền lính, tính liền)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="7">
+    <text>Can ông công an .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(can ông, công an)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="8">
+    <text>Thưa cô rằng răng cô thừa .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thưa cô rằng, răng cô thừa)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="9">
+    <text>Nhận vơ vợ Nhân .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nhận vơ, vợ nhân)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="10">
+    <text>Thầy giáo tháo giày , vấy đất vất đấy .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thầy giáo, tháo giày)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+        <phrases>
+          <text>(vấy đất, vất đấy)</text>
+          <position>((20, 22), (24, 26))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="11">
+    <text>Thầy tu thù Tây , cạo đầu cầu đạo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thầy tu, thù tây)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+        <phrases>
+          <text>(cạo đầu, cầu đạo)</text>
+          <position>((20, 22), (24, 26))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="12">
+    <text>Bằng ngón chưn cái mà chai cứng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chưn cái, chai cứng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="13">
+    <text>Cái con cá đua là con cua đá .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cá đua, cua đá)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="14">
+    <text>Xứ Thủ Đức năm canh thức đủ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thủ đức, thức đủ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="15">
+    <text>Kẻ cơ thần trở lại Cần Thơ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cơ thần, cần thơ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="16">
+    <text>Một ông đẽo đá trên cây , hai ông đá đẽo dưới này rồi chưa .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đẽo đá, đá đẽo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="17">
+    <text>Con mèo cái nằm trên mái kèo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mèo cái, mái kèo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="18">
+    <text>Khi đi cưa ngọn , khi về cũng cưa ngọn .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(cưa ngọn, con ngựa)</text>
+          <position>(6, 8)</position>
+        </phrases>
+        <phrases>
+          <text>(cưa ngọn, con ngựa)</text>
+          <position>(14, 16)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="19">
+    <text>Bằng cán rựa mà cựa ráng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cán rựa, cựa ráng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="20">
+    <text>Bằng ngón tay mà ngáy ton ton .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(ngón tay, ngáy ton)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="21">
+    <text>Khoang đầu , khoang cổ , khoang lai , bò la bò liệt , đố ai biết gì ?</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(khoang lai, khoai lang)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="22">
+    <text>Chim vàng lông đậu tại vồng lang .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(vàng lông, vồng lang)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="23">
+    <text>Mèo đuôi cụt nằm mút đuôi kèo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mèo đuôi cụt, mút đuôi kèo)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="24">
+    <text>Tìm diệt bãi Cửu Long , bị sóng Cửu Long dìm tiệt .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(tìm diệt, dìm tiệt)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="25">
+    <text>Dồn dân bờ Trà Khúc , nhừ đòn Trà Khúc dần Giôn .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(dồn dân, dần giôn)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="26">
+    <text>Rực rỡ mé đường tây , kẻ lại người qua , ca tụng sinh phần quan lớn Lại .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(lớn lại, lái lợn)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="27">
+    <text>Vang lừng trong thôn bắc , trên kinh dưới dái , một lòng tôn trọng cụ trong dân .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(cụ trong dân, rận trong cu)</text>
+          <position>(6, 9)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="28">
+    <text>Chim mỏ kiến nằm trên miếng cỏ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mỏ kiến, miếng cỏ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="29">
+    <text>Chim vàng long đá tại vòng lang .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(vàng long, vòng lang)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="30">
+    <text>Chim sáo sọc chê anh sóc sạo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(sáo sọc, sóc sạo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="31">
+    <text>Con chó què chân bị cái quần che .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(què chân, quần che)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="32">
+    <text>Cô bé mập ú là nhờ mụ ấp .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mập ú, mụ ấp)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="33">
+    <text>Thằng nhỏ ốm tong vác cái ống tôm .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(ốm tong, ống tôm)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="34">
+    <text>Chiều chiều cụ Mão lên rừng cạo mũ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cụ mão, cạo mũ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="35">
+    <text>Sáng sớm bà Hạt đi bán bạt hà .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bà hạt, bạt hà)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="36">
+    <text>Cô nàng dâu hứa đi mua dưa hấu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(dâu hứa, dưa hấu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="37">
+    <text>Chàng rể bảnh trai ngồi tại bãi tranh .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bảnh trai, bãi tranh)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="38">
+    <text>Người mặc áo xanh chính là anh sáu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(áo xanh, anh sáu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="39">
+    <text>Miếng thịt băm nát trong bụng bác năm .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(băm nát, bác năm)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="40">
+    <text>Anh chàng sức môi ngồi ăn xôi mức .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(sức môi, xôi mức)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="41">
+    <text>Cô gái mồm to lặn lội mò tôm .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mồm to, mò tôm)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="42">
+    <text>Nhờ cái búa đỏ chẻ thành bó đủa .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(búa đỏ, bó đủa)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="43">
+    <text>Cái nồi cơm thiêu lại dám kêu thơm .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cơm thiêu, kêu thơm)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="44">
+    <text>Tấm hình lộng kiến ai đem liệng cống .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lộng kiến, liệng cống)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="45">
+    <text>Cô gái muốn chồng ngó cái mống chuồn .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(muốn chồng, mống chuồn)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="46">
+    <text>Nực cổi chi ra nổi cực lòng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nực cổi, nổi cực)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="47">
+    <text>Dòng châu lai láng dỉa dầu chong .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(dòng châu, dầu chong)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="48">
+    <text>Khó đi tìm hiểu nhau khi đó .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(khó đi, khi đó)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="49">
+    <text>Công khó nhờ ai biết có không .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(công khó, có không)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="50">
+    <text>Cầu đạo nên chi phải cạo đầu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cầu đạo, cạo đầu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="51">
+    <text>Dầu lai dưa muối cũng dài lâu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(dầu lai, dài lâu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="52">
+    <text>Na bường bát tới nương bà vãi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(na bường, nương bà)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="53">
+    <text>Dầu sãi không tu cũng giải sầu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(dầu sãi, giải sầu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="54">
+    <text>Cô kia sao cứ trông trời .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(trông trời, chơi chồng)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="55">
+    <text>Để tôi xin nguyện làm trời cô trông .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(trời cô trông, chồng cô chơi)</text>
+          <position>(6, 9)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="56">
+    <text>Trông trời sướng lắm phải không .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(trông trời, chơi chồng)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="57">
+    <text>Trời mà trông lại còn mong nỗi gì !</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(trời mà trông, chồng mà chơi)</text>
+          <position>(6, 9)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="58">
+    <text>Con óc con nhện , con ếch con nhọng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(óc con nhện, ếch con nhọng)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="59">
+    <text>Con cò con sóc , con cóc con sò .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cò con sóc, cóc con sò)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="60">
+    <text>Con công con rùa , con cua con rồng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(công con rùa, cua con rồng)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="61">
+    <text>Con cáo con bò , con cò con báo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cáo con bò, cò con báo)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="62">
+    <text>Ông cò lửa đứng ở cửa lò .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cò lửa, cửa lò)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="63">
+    <text>Anh Câu Bành đánh lộn ví anh Kí Banh , ông Cai Cảnh làm biên bản , giải lên ông Cai Khoanh để thụ lý .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(câu bành, canh bầu)</text>
+          <position>(6, 8)</position>
+        </phrases>
+        <phrases>
+          <text>(kí banh, canh bí)</text>
+          <position>(14, 16)</position>
+        </phrases>
+        <phrases>
+          <text>(cai cảnh, canh cải)</text>
+          <position>(22, 24)</position>
+        </phrases>
+        <phrases>
+          <text>(cai khoanh, canh khoai)</text>
+          <position>(30, 32)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="64">
+    <text>Ra Thủ Đức năm năm thức đủ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thủ đức, thức đủ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="65">
+    <text>Về Giồng Trôm tháng tháng dòm trông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(giồng trôm, dòm trông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="66">
+    <text>Đi chợ Búng coi chừng chúng bợ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chợ búng, chúng bợ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="67">
+    <text>Đến Hạ Long rát cổ họng la .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(hạ long, họng la)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="68">
+    <text>Lên Bắc Cạn , nghèo đành bán cặc .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bắc cạn, bán cặc)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="69">
+    <text>Vào Ba Thê cuộc sống bê tha .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(Ba Thê, bê tha)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="70">
+    <text>Vượt sông Đuống , xuống Đông lên bắc .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(sông Đuống, xuống Đông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="71">
+    <text>Trèo Đèo Ngang trong lúc đang nghèo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đèo ngang, đang nghèo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="72">
+    <text>Nếu chịu Bà Chở , bà sẽ chở xuống Chợ Bà Chiểu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chịu bà chở, chợ bà chiểu)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="73">
+    <text>Con Tiên Cháu Rồng , lộn xuống hồng trần sung sướng nhỉ .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(rồng lộn, lồn rộng)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="74">
+    <text>Mộng hùm thơ Rắn , Sai đâu con tạo đỡ đần cho .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(rắn sai, dái săn)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="75">
+    <text>Hổ tù ngán nổi con rồng lộn .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(rồng lộn, lồn rộng)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="76">
+    <text>Ngọc vết thương tình kẻ cố đeo .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(cố đeo, đéo cô)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="77">
+    <text>Giáo chức bây giờ dứt cháo thôi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(giáo chức, dứt cháo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="78">
+    <text>Kỹ sư đôi lúc là cư sĩ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(kỹ sư, cư sĩ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="79">
+    <text>Thầy giáo lắm phen cũng tháo giày .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thầy giáo, tháo giày)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="80">
+    <text>Giáo chức giờ đây đành dứt cháo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(Giáo chức, dứt cháo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="81">
+    <text>Khoái ăn sang nên sáng ăn khoai .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(Khoái ăn sang, sáng ăn khoai)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="82">
+    <text>Thầy giáo tháo giày đi dép .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thầy giáo, tháo giày)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="83">
+    <text>Chú phỉnh tôi rồi chính phủ ơi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chú phỉnh, chính phủ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="84">
+    <text>Chiến khu tiền bạc chú khiên rồi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chiến khu, chú khiên)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="85">
+    <text>Thi đua vượt chỉ , thua đi đấy .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thi đua, thua đi)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="86">
+    <text>Kháng chiến lâu ngày khiến chán thôi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(kháng chiến, khiến chán)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="87">
+    <text>Làm sương cho sáo ?</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(sương cho sáo, sao cho sướng)</text>
+          <position>(6, 9)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="88">
+    <text>Lấy tóc mà may .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(tóc mà may, tay mà móc)</text>
+          <position>(6, 9)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="89">
+    <text>Giai nhân tái đắc , giai nhân tử .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(tái đắc, tắc đái)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="90">
+    <text>Anh hùng khai đống , anh hùng tiêu .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(khai đống, không đái)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="91">
+    <text>Đi giữa trời nắng cực quá .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(nắng cực, nứng cặc)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="92">
+    <text>Ôm nhiều thì yếu , yêu nhiều thì ốm .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(ôm nhiều thì yếu, yêu nhiều thì ốm)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="93">
+    <text>Chà đồ nhôm chôm đồ nhà .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chà đồ nhôm, chôm đồ nhà)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="94">
+    <text>Chả lo gì , chỉ lo già .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chả lo gì, chỉ lo già)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="95">
+    <text>Nỏ muốn chi , chỉ muốn no .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nỏ muốn chi, chỉ muốn no)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="96">
+    <text>Chiều ba mươi , thầy giáo tháo giày ra chợ bán .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thầy giáo, tháo giày)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="97">
+    <text>Sáng mùng một , giáo chức dứt cháo đón xuân sang .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(giáo chức, dứt cháo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="98">
+    <text>Thảm kịch của thầy giáo , phải tháo giầy .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thầy giáo, tháo giầy)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="99">
+    <text>Tháo luôn cả ủng , thủng luôn cả áo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(tháo luôn cả ủng, thủng luôn cả áo)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="100">
+    <text>Làm giáo chức , nên phải giứt cháo ,</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(giáo chức, giứt cháo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="101">
+    <text>Thảo chương rồi , để được thưởng chao ,</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thảo chương, thưởng chao)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="102">
+    <text>Lấy giáo án đem dán áo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(giáo án, dán áo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="103">
+    <text>Nhường hết cả xe , nhè hết cả xương .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nhường hết cả xe, nhè hết cả xương)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="104">
+    <text>Nhường luôn miếng đất , nhất luôn miếng đường .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nhường luôn miếng đất, nhất luôn miếng đường)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="105">
+    <text>Lấy lương hưu , để lưu hương .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lương hưu, lưu hương)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="106">
+    <text>Tiền ai nấy tính , tình ai nấy tiến .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(tiền ai nấy tính, tình ai nấy tiến)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="107">
+    <text>Ăn cơm trước kẻng , ăn kem trước cổng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cơm trước kẻng, kem trước cổng)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="108">
+    <text>Tình theo giấc mộng tan , tàn theo giấc mộng tinh .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(tình theo giấc mộng tan, tàn theo giấc mộng tinh)</text>
+          <position>((12, 17), (19, 24))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="109">
+    <text>Đời thay đổi khi ta thôi đẩy .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thay đổi, thôi đẩy)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="110">
+    <text>Đừng mơ hão mà thành hao mỡ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mơ hão, hao mỡ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="111">
+    <text>Trời cho một trò chơi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(trời cho, trò chơi)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="112">
+    <text>Bí mật được bật mí .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bí mật, bật mí)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="113">
+    <text>Đến nông trường để trồng nương .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nông trường, trồng nương)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="114">
+    <text>Mới trông nường đã trương nòng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(trông nường, trương nòng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="115">
+    <text>Dòng châu lai láng , đĩa dầu chong .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(dòng châu, dầu chong)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="116">
+    <text>Công khó đợi chờ , biết có không ?</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(công khó, có không)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="117">
+    <text>Nhắc bạn thêm thương người nhạn bắc .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nhắc bạn, nhạn bắc)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="118">
+    <text>Trông đời ngao ngán giữa trời đông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(trông đời, trời đông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="119">
+    <text>Thầy tu mô Phật cũng thù Tây .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thầy tu, thù tây)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="120">
+    <text>Làng vọng còn hơn cái lọng vàng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(làng vọng, lọng vàng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="121">
+    <text>Mang sơ tấm áo , chớ mơ sang .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mang sơ, mơ sang)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="122">
+    <text>Nhắn bạn lên non đừng bắn nhạn .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nhắn bạn, bắn nhạn)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="123">
+    <text>Hang lỗ tìm vào bắt hổ lang .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(hang lỗ, hổ lang)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="124">
+    <text>Trò chơi vui thú của trời cho .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(trò chơi, trời cho)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="125">
+    <text>Trù đỏ môi ai diễn đủ trò .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(trù đỏ, đủ trò)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="126">
+    <text>Bạn nhắn có lên cùng bắn nhạn .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bạn nhắn, bắn nhạn)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="127">
+    <text>O bồng không nổi để ông bò .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(o bồng, ông bò)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="128">
+    <text>Nhắn ai lên Mán mời ăn nhái .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nhắn ai, ăn nhái)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="129">
+    <text>Cò lửa vào Vinh đến Cửa Lò .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cò lửa, cửa lò)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="130">
+    <text>Tú Cuyệt làm thơ hay tuyệt cú .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(tú cuyệt, tuyệt cú)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="131">
+    <text>Trông trời xem bóng giữa trời trông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(trông trời, trời trông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="132">
+    <text>Không đá mà chen lấn khá đông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(không đá, khá đông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="133">
+    <text>Cổ đấm đau nên tui cấm đỗ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cổ đấm, cấm đỗ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="134">
+    <text>Công an nhìn thấy đã can ông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(công an, can ông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="135">
+    <text>Lồng lộn , lu loa lại lộn lồng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lồng lộn, lộn lồng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="136">
+    <text>Láo thật ! Đánh nhau toan lật tháo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(láo thật, lật tháo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="137">
+    <text>Ông bò không được cậy O bồng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(ông bò, o bồng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="138">
+    <text>Vòng Lạng đông vui rước lọng vàng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(vòng lạng, lọng vàng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="139">
+    <text>Mang sơ xống áo ước mơ sang .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mang sơ, mơ sang)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="140">
+    <text>Khó đi , đường tắc đông khi đó .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(khó đi, khi đó)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="141">
+    <text>Chàng lạy tìm thầy đến chạy làng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chàng lạy, chạy làng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="142">
+    <text>Làng trên tấp nập rước lên tràng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(làng trên, lên tràng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="143">
+    <text>Chầy tháng , qua năm mới thấy chàng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chầy tháng, thấy chàng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="144">
+    <text>Chở pháo mà cho ăn cháo phở .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chở pháo, cháo phở)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="145">
+    <text>Hàng hai ứa lệ nhỏ hai hàng !</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(hàng hai, hai hàng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="146">
+    <text>Đồng Tranh nhớ bạn dạ đành trông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đồng tranh, đành trông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="147">
+    <text>Sông Bắc mấy mùa trổ sắc bông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(sông bắc, sắc bông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="148">
+    <text>Gói mỗi thời gian đường gối mỏi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(gói mỗi, gối mỏi)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="149">
+    <text>Mong chờ năm tháng giấc mơ chồng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mong chờ, mơ chồng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="150">
+    <text>Lá đòng xanh biếc thương lòng đá .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lá đòng, lòng đá)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="151">
+    <text>Bông điển hoe vàng ngóng biển Đông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bông điển, biển đông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="152">
+    <text>Hối đã bao phen tình há đổi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(hối đã, há đổi)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="153">
+    <text>Trông bàng nẩy lộc nở tràng bông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(trông bàng, tràng bông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="154">
+    <text>Đông trứng không lo chỉ đứng trông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đông trứng, đứng trông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="155">
+    <text>Ai nhắn lên rừng ăn nhái bén .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(ai nhắn, ăn nhái)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="156">
+    <text>Trông chàng ra mắt gặp trang chồng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(trông chàng, trang chồng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="157">
+    <text>Tháo giầy chỉnh đốn tôn thầy giáo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(tháo giầy, thầy giáo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="158">
+    <text>Ông đá xâm lăng khỏi Á Đông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(ông đá, á đông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="159">
+    <text>Bạn nhắn về quê thi bắn nhạn .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bạn nhắn, bắn nhạn)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="160">
+    <text>Thấy chàng đợi người yêu mà bớt điệu người ơi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đợi người yêu, điệu người ơi)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="161">
+    <text>Lòng ta xin nguyện khắc ghi trong tim , ai dè ghim trong ti .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(ghi trong tim, ghim trong ti)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="162">
+    <text>Trước khi cưới em là nụ hồng tươi sáng , cưới xong rồi em là hàng tươi sống .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(hồng tươi sáng, hàng tươi sống)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="163">
+    <text>Mơi tra chiều hỏi chuyện ma trơi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mơi tra, ma trơi)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="164">
+    <text>Trời đẻ ghen chi cứ trẻ đời .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(trời đẻ, trẻ đời)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="165">
+    <text>Cớ sự làm sao mà cứ sợ ?</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cớ sự, cứ sợ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="166">
+    <text>Dời chưn không kịp đứng dừng chơi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(dời chưn, dừng chơi)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="167">
+    <text>Mau sai lời nguyện ước mai sau .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mau sai, mai sau)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="168">
+    <text>Niết bỏ nhau thà nỏ biết nhau .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(niết bỏ, nỏ biết)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="169">
+    <text>Nắng đốt mưa thay nhiều nỗi đắng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nắng đốt, nỗi đắng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="170">
+    <text>Chán chưa tình lệ chứa chan sầu !</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chán chưa, chứa chan)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="171">
+    <text>Trông khống vô phòng thấy trống không .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(trông khống, trống không)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="172">
+    <text>Chứa chan dòng lệ chán chưa chồng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chứa chan, chán chưa)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="173">
+    <text>Dòng châu lai láng dầu chong đợi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(dòng châu, dầu chong)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="174">
+    <text>Bóng nhạn lưng chừng bạn nhóng trông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bóng nhạn, bạn nhóng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="175">
+    <text>Tìm ngó đã cùng nơi ngả đó .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(ngó đã, ngả đó)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="176">
+    <text>Mơ mòng bên cạnh gối mền bông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mòng bên, mền bông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="177">
+    <text>Đêm thâu mưa gió đâu thêm mãi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đêm thâu, đâu thêm)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="178">
+    <text>Xông lướt đi tìm phải xước lông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(xông lướt, xước lông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="179">
+    <text>Đò ca Huế có đa cò .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đò ca, đa cò)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="180">
+    <text>Ai xui cò đậu phách chênh , cậu đò ?</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cò đậu, cậu đò)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="181">
+    <text>Bầu trỏ hèn chi mới bỏ trầu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bầu trỏ, bỏ trầu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="182">
+    <text>Bầu to đành phải tậu bò tâu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bầu to, bò tâu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="183">
+    <text>Quệt má vì yêu nên quá mệt .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(quệt má, quá mệt)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="184">
+    <text>Bầu lên hạnh phúc được bền lâu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bầu lên, bền lâu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="185">
+    <text>Đời chua , bậu cứ thử đùa chơi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đời chua, đùa chơi)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="186">
+    <text>Hộ khẩu là hậu khổ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(hộ khẩu, hậu khổ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="187">
+    <text>Đàn ông phải có chỗ đứng và cứng chỗ đó .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(có chỗ đứng, cứng chỗ đó)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="188">
+    <text>Bực mình thằng em hôm nay làm vỡ bình mực .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bực mình, bình mực)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="189">
+    <text>Ta mài kéo chọc tiết con mèo cái .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mài kéo, mèo cái)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="190">
+    <text>Vừa đá banh vừa ăn bánh đa .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đá banh, bánh đa)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="191">
+    <text>Tình chán chưa ? Tình chứa chan .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chứa chan, chán chưa)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="192">
+    <text>Có chỗ đứng .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(có chỗ đứng, cứng chỗ đó)</text>
+          <position>(6, 9)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="193">
+    <text>Chả sợ chi .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(chả sợ chi, chỉ sợ cha)</text>
+          <position>(6, 9)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="194">
+    <text>Thương nhau mà sống .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(thương nhau mà sống, thông nhau mà sướng)</text>
+          <position>(6, 10)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="195">
+    <text>Các cụ có câu .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(cụ có câu, cậu có cu)</text>
+          <position>(6, 9)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="196">
+    <text>Đàn ông đích thực .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(đích thực, thích đực)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="197">
+    <text>Người đàn bà vu khống .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(vu khống, không vú)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="198">
+    <text>Thuận buồm xuôi gió .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(buồm xuôi gió, giò xuôi bướm)</text>
+          <position>(6, 9)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="199">
+    <text>Nhà cô gái có cái lò tôn .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(lò tôn, lồn to)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="200">
+    <text>Vụ nổ lớn .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(vụ nổ lớn, lợn nổ vú)</text>
+          <position>(6, 9)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="201">
+    <text>Bạn bè như cái bẹn bà .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bạn bè, bẹn bà)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="202">
+    <text>Đập cũ đò đưa đủ cặp đời .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đập cũ, đủ cặp)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="203">
+    <text>Trời cho sức khỏe lắm trò chơi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(trời cho, trò chơi)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="204">
+    <text>Có đôi , khi rảnh lên côi đó .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(có đôi, côi đó)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="205">
+    <text>Cười ngả nghiêng cho mệt cả người .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cười ngả, cả người)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="206">
+    <text>Cầu đạo cần chi phải cạo đầu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cầu đạo, cạo đầu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="207">
+    <text>Cai ông định bụng chấm công ai .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cai ông, công ai)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="208">
+    <text>Gai bút ghi vào tiếng Gút bai .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(gai bút, gút bai)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="209">
+    <text>Lán cót trừ công chưa lót cán .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lán cót, lót cán)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="210">
+    <text>Bài tung cọng tội đến bùng tai .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bài tung, bùng tai)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="211">
+    <text>Bủa giông chẳng tính khi bông giũa .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bủa giông, bông giũa)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="212">
+    <text>Gài bẫy không toan lúc gãy bài .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(gài bẫy, gãy bài)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="213">
+    <text>Hõ lón quen mồm thành hõn ló .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(hõ lón, hõn ló)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="214">
+    <text>Cai dòn chức ấy khó còn dai .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cai dòn, còn dai)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="215">
+    <text>Con chim sáo sậu chê anh xấu xạo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(sáo sậu, xấu xạo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="216">
+    <text>Con bé mập ú nhờ bà mụ ấp .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mập ú, mụ ấp)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="217">
+    <text>Chiều chiều cụ Mão lên rừng cạo mủ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cụ mão, cạo mủ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="218">
+    <text>Sáng sớm bà Hạc đi bán bạc hà .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bà hạc, bạc hà)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="219">
+    <text>Nhờ nàng dâu hứa đi mua dưa hấu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(dâu hứa, dưa hấu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="220">
+    <text>Họp đồng chí thấy toàn đì , chống .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đồng chí, đì chống)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="221">
+    <text>Xô Viết ngày nay khoái xiết vô .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(xô viết, xiết vô)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="222">
+    <text>Hình treo lộng kiếng như liệng cống .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lộng kiếng, liệng cống)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="223">
+    <text>Để thằng to dự hét tự do .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(to dự, tự do)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="224">
+    <text>Chú đeo bảng đỏ mà bỏ đảng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bảng đỏ, bỏ đảng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="225">
+    <text>Mượn sao vàng che đậy sang giàu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(sao vàng, sang giàu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="226">
+    <text>Căng bồng nhờ nói công bằng nhỉ ?</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(căng bồng, công bằng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="227">
+    <text>Lưu manh nào lại chẳng lanh mưu ?</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lưu manh, lanh mưu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="228">
+    <text>Theo chính phủ ai ngờ chú phỉnh .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chính phủ, chú phỉnh)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="229">
+    <text>Vào chiến khu thì bị chú khiêng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chiến khu, chú khiêng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="230">
+    <text>Mồm đánh Mỹ mà tâm đĩ mánh .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đánh mỹ, đĩ mánh)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="231">
+    <text>Tiền đâu ? Chú chặn họng đầu tiên .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(tiền đâu, đầu tiên)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="232">
+    <text>Giáo chức đói meo đành dứt cháo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(giáo chức, dứt cháo)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="233">
+    <text>Làm nhà thơ vô bót nhờ tha .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nhà thơ, nhờ tha)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="234">
+    <text>Thiên tài không đủ thai tiền hả ?</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thiên tài, thai tiền)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="235">
+    <text>Cắt đuốc về quê cuốc đất à !</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cắt đuốc, cuốc đất)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="236">
+    <text>Khiến chán ta làm thơ kháng chiến .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(khiến chán, kháng chiến)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="237">
+    <text>Gào thi đua chú bịp thua đi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thi đua, thua đi)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="238">
+    <text>Làm thơ mà lờ tham mới nhục .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(làm thơ, lờ tham)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="239">
+    <text>Thì cấy cày mất đất thấy kỳ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thì cấy, thấy kỳ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="240">
+    <text>Lãnh tụ sạch nhờ ôm tủ lạnh .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lãnh tụ, tủ lạnh)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="241">
+    <text>Bắn người do bác bỏ người dân .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bắn người do, bỏ người dân)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="242">
+    <text>Bác đi quá sớm thành bi đát .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bác đi, bi đát)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="243">
+    <text>Nghệ sĩ tụi con nghĩ xệ quần .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nghệ sĩ, nghĩ xệ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="244">
+    <text>Mùa lễ hội thơ hoa lỗi hệ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lễ hội, lỗi hệ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="245">
+    <text>Lục bát đành lạc bút từ khuya .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lục bát, lạc bút)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="246">
+    <text>Đợi lâu mới biết đâu lợi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đợi lâu, đâu lợi)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="247">
+    <text>Bìa đây mai ruột đầy bia ?</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bìa đây, đầy bia)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="248">
+    <text>Dân mình hiến đất xây trường , quan tham lấn đất trầy xương thầy trò .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(xây trường, trầy xương)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="249">
+    <text>Tranh thùng tranh thủ mới trung thành !</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(tranh thùng, trung thành)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="250">
+    <text>Đầy tớ vét tiền bao tờ đấy .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đầy tớ, tờ đấy)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="251">
+    <text>Giành nhau tham nhũng chúng giàu nhanh .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(giành nhau, giàu nhanh)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="252">
+    <text>Người gian không thích sấm , người dâm không thích sáng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(gian không thích sấm, dâm không thích sáng)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="253">
+    <text>Làm dấm thì chua , làm chúa thì dâm .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(dấm thì chua, chúa thì dâm)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="254">
+    <text>Không nên giỡn quá lố trong ngày giỗ quá lớn .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(giỡn quá lố, giỗ quá lớn)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="255">
+    <text>Có những người chỉ đi mưa mà chưa đi Mỹ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chỉ đi mưa, chưa đi mỹ)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="256">
+    <text>Các cô thích anh chàng ngông mà không thích anh chồng ngang .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chàng ngông, chồng ngang)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="257">
+    <text>Da nhăn thì kéo , da nhéo thì căng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nhăn thì kéo, nhéo thì căng)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="258">
+    <text>Ở Việt Nam tham nhũng sống trên thảm nhung và mọi người giành nhau làm giàu nhanh .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(tham nhũng, thảm nhung)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+        <phrases>
+          <text>(giành nhau, giàu nhanh)</text>
+          <position>((20, 22), (24, 26))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="259">
+    <text>Cây sầu đông mọc ở đồng sâu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(sầu đông, đồng sâu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="260">
+    <text>Chơi hụi thì chết chơi hết thì trụi .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(hụi thì chết, hết thì trụi)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="261">
+    <text>Người lao động chân chính còn người linh động trân tráo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lao động chân chính, linh động trân tráo)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="262">
+    <text>Người lao động cầu kinh còn người linh động cầu cao .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lao động cầu kinh, linh động cầu cao)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="263">
+    <text>Người lao động làm lính còn người linh động làm láo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lao động làm lính, linh động làm láo)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="264">
+    <text>Người lao động hay bịnh còn người linh động hay bạo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lao động hay bịnh, linh động hay bạo)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="265">
+    <text>Người lao động cầm đinh còn người linh động cầm đao .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lao động cầm đinh, linh động cầm đao)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="266">
+    <text>Người lao động thành kính còn người linh động thành cáo .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lao động thành kính, linh động thành cáo)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="267">
+    <text>Người già ngồi câu còn người giầu ngồi ca .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(già ngồi câu, giầu ngồi ca)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="268">
+    <text>Nhiều người năng làm việc thiện mà không thiên làm việc nặng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(năng làm việc thiện, thiên làm việc nặng)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="269">
+    <text>Tình chan chứa là tình chưa chán .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chan chứa, chưa chán)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="270">
+    <text>Đàn ông có người trên răng dưới dế và có người trên dê dưới rắn .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(răng dưới dế, dê dưới rắn)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="271">
+    <text>Nghệ sĩ tránh ăn cá kho vì sợ khó ca .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cá kho, khó ca)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="272">
+    <text>Người có lông mép thường có mông lép .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(lông mép, mông lép)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="273">
+    <text>Có nhiều người Mỹ lai gốc Á hơn người Mã Lai gốc Ý .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mỹ lai gốc á, mã lai gốc ý)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="274">
+    <text>Thầy tu thù Tây vì thằng Tây giết thầy tăng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thầy tu, thù tây)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+        <phrases>
+          <text>(thằng tây, thầy tăng)</text>
+          <position>((20, 22), (24, 26))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="275">
+    <text>Chuyện đau lòng nghĩ đến lại long đầu .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đau lòng, long đầu)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="276">
+    <text>Tâm không đầy như Tây không Đầm .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(tâm không đầy, tây không đầm)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="277">
+    <text>Củ không đứng vì cứng không đủ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(củ không đứng, cứng không đủ)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="278">
+    <text>Người Bắc nói &quot; đang đi trên đường &quot; thì người Nam nói &quot; đương đi trên đàng &quot;.</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đang đi trên đường, đương đi trên đàng)</text>
+          <position>((12, 16), (18, 22))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="279">
+    <text>Người Bắc nói &quot; hợp nhãn &quot; thì người Nam nói &quot; hạp nhỡn &quot;.</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(hợp nhãn, hạp nhỡn)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="280">
+    <text>Người nầy bạo tính thích người tình bạo nấy .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(nầy bạo tính, tình bạo nấy)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="281">
+    <text>Người bí ẩn thường có ý bẩn .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bí ẩn, ý bẩn)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="282">
+    <text>Có thánh tâm thì không có tánh thâm .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thánh tâm, tánh thâm)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="283">
+    <text>Nhà nông đi cấy không giầu nên đi cầu không giấy .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cấy không giầu, cầu không giấy)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="284">
+    <text>Tình thơ như mật khi tình thật như mơ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thơ như mật, thật như mơ)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="285">
+    <text>Thà đổ dừa vô lẩu còn hơn đổ dầu vô lửa .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(dừa vô lẩu, dầu vô lửa)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="286">
+    <text>Những chuyện thời Đường bây giờ thành chuyện đời thường .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thời đường, đời thường)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="287">
+    <text>Cô làm biếng tìm chồng kiêng làm bố .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cô làm biếng, kiêng làm bố)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="288">
+    <text>Người thợ vô tư làm bài thơ vô tự .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(thợ vô tư, thơ vô tự)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="289">
+    <text>Vào chợ đời phải biết đợi chờ .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(chợ đời, đợi chờ)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="290">
+    <text>Có đợi đào mới hiểu đạo đời .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(đợi đào, đạo đời)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="291">
+    <text>Người Sài Gòn ăn canh cần thịt bò còn người Đồng Tháp ăn canh bần thịt cò .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(cần thịt bò, bần thịt cò)</text>
+          <position>((12, 15), (17, 20))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="292">
+    <text>Cây sầu đông mọc ở đầu sông .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(sầu đông, đầu sông)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="293">
+    <text>Mang vài mai vàng .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(mang vài, mai vàng)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="294">
+    <text>Kìa mấy cấy mía .</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(kìa mấy, cây mía)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="295">
+    <text>Bí mật bị mất</text>
+    <spoonerism>
+      <type2>
+        <phrases>
+          <text>(bí mật, bị mất)</text>
+          <position>((12, 14), (16, 18))</position>
+        </phrases>
+      </type2>
+    </spoonerism>
+  </sentence>
+  <sentence id="296">
+    <text>Cục đỏ bỏ vô giường .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(đỏ bỏ vô giường, đường bỏ vô giỏ)</text>
+          <position>(6, 10)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="297">
+    <text>Miệng bà ký lớn , bà ký banh .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(ký banh, canh bí)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="298">
+    <text>Tay ông cai dài , ông cai khoanh .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(cai khoanh, canh khoai)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="299">
+    <text>Tán vàng , lọng tía , che đầu nhau đỡ khi nắng cực .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(nắng cực, nứng cặc)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+  <sentence id="300">
+    <text>Thuyền rồng , mui vẽ , vén buồm lên rồi sẽ lộn lèo .</text>
+    <spoonerism>
+      <type1>
+        <phrases>
+          <text>(lộn lèo, lẹo lồn)</text>
+          <position>(6, 8)</position>
+        </phrases>
+      </type1>
+    </spoonerism>
+  </sentence>
+</data>
